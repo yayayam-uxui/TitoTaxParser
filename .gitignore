@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+.DS_Store
+node_modules/
+data/
+*.log
+*.tmp
+*.xlsx
+*.csv
